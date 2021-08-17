@@ -2,14 +2,6 @@
 연습용
 ___
 
-> 연습용이야
+# commit chat
 
-```
-#include stdio.h
-
-int main(){
-  printf("Hello Wolrd~!");
-}
-
-return 0;
-```
+<img src="https://ghchart.rshah.org/pcjo1202">
